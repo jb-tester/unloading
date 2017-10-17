@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/m2/m2.iml" filepath="$PROJECT_DIR$/m2/m2.iml" />
       <module fileurl="file://$PROJECT_DIR$/m3/m3.iml" filepath="$PROJECT_DIR$/m3/m3.iml" />
       <module fileurl="file://$PROJECT_DIR$/m4/m4.iml" filepath="$PROJECT_DIR$/m4/m4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../springTestFarmework/springTestFarmework.iml" filepath="$PROJECT_DIR$/../springTestFarmework/springTestFarmework.iml" />
     </modules>
   </component>
 </project>
